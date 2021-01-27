@@ -11,3 +11,5 @@ baseurl: ""
 url: https://www.100automations.com
 repository: 100Automations/Website
 
+
+theme: jekyll-theme-minimal
