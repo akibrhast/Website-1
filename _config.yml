@@ -9,7 +9,7 @@ description: The 100 Automations project showcases Hack for LA automations and m
 
 baseurl: ""
 url: https://experimentsinhonesty.github.io/Website/
-repository: 100Automations/Website
+repository: experimentsinhonesty/Website
 
 
 theme: jekyll-theme-tactile
