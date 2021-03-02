@@ -5,15 +5,10 @@ status:
 display: true
 ---
 
-# Creating a Good Project Image
-
-- [General Design Tips](#design-tips)
-- [Use Clear Images](#clear-image)
-- [Image Rights and Credits](#image-rights)
-- [Resources](#resources)
 
 
-<a name="design-tips"></a>
+
+
 ### General Design Tips
 
 The project image is 744 x 300 pixels, but displays at half that size, so it needs to be a clear, simple identifier of your automation.
