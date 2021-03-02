@@ -11,7 +11,7 @@ var schema = {
     "description": {"type": "string"},
     "status": {
       "type": "string",
-      "enum": ["active", "inactive"]
+      "enum": ["active", "inactive","on-hold"]
     },
     "display": { "type": "boolean" }
 
