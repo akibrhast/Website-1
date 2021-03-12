@@ -1,4 +1,0 @@
-title: str()
-description: str()
-status: enum('active','inactive')
-display: bool()
