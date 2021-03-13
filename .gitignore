@@ -14,7 +14,6 @@ Gemfile.lock
 
 # Ignore OS and IDE tracking files
 .DS_store
-.vscode
 .idea
 
 
