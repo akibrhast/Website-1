@@ -1,5 +1,5 @@
 # 100 Automations Website
-
+## Hi Bonnie, I am writing this message to your from prose
 100 Automations is a project of Hack for LA that showcases automations and microservices that reduce repetitive work in open source development; a project where anyone can create, collaborate on, and get credit for high-value open source contributions to the wider Civic Tech community. The name derives from the project’s goal to reach 100 developed automations in our first twelve months.
 
 The 100 Automations website is going to be a standard [Jekyll](https://jekyllrb.com/) site hosted right here on [GitHub pages](https://pages.github.com/).  We will be providing further instructions after we have our first initial code.
@@ -28,4 +28,3 @@ reach out to our Product Manager, Niven Prasad, on [our Slack](https://hackforla
 - Find an automation that you want to build from our list of ideas: some are [half baked](https://github.com/100Automations/futureautomations/projects/1#column-9876971) and need more research, others are well documented
 - Propose a new idea for an automation
 - Tell us about an automation that you have already built that you would like to host here
-
